@@ -1,6 +1,4 @@
-Got it — we can make this **clean, clear, and professional**, without unnecessary fluff, keeping the focus on features, usage, and clarity for recruiters or anyone reviewing your GitHub. Here’s a polished version:
 
-````markdown
 # 🧠 Website Summarizer
 
 An AI-powered web app that extracts content from any website and generates intelligent summaries using OpenAI GPT models.
